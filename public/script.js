@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const slideshow = document.getElementById("slideshowScreen");
   const music = document.getElementById("bgMusic");
 
-  const message = "Happy valentines day Nana💖";
+  const message = "Happy valentines day Smruthi💖";
   let index = 0;
 
   function typeWriter() {
